@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on learning design patterns, project managment, and developing interested projects.
 - 📫 How to reach me:
 - - Mail: fromzikrulloh@yandex.com
-- - Telegram: t.me/zikrulloh0115
+- - Telegram: https://t.me/zikrulloh0115
 - - Phone: +998917705949
 - - Address: Uzbekistan, Tashkent.
