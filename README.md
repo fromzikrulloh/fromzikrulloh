@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zikrulloh, fullstack developer from Uzbekiston!
 - 👀 I’m interested in web mobile development
-- 🐱‍👤 My skills: php lumen js vue react tailwind
-- 🌱 I’m currently learning c# asp.net
+- 🐱‍👤 My skills: php lumen MERN tailwind
+- 🌱 I’m currently learning MERN practise
 - 💞️ I’m looking to collaborate on learning design patterns, project managment, and developing interested projects.
 - 📫 How to reach me:
 - - Mail: fromzikrulloh@yandex.com
