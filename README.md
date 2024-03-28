@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Zikrulloh, fullstack developer from Uzbekiston!
-- 👀 I’m interested in web mobile development
+- 👋 Hi, I’m Zikrulloh, backend developer from Uzbekiston!
 - 🐱‍👤 My skills: NodeJs Mongo GoLang
-- 🌱 I’m currently learning MERN practise
-- 💞️ I’m looking to collaborate on learning design patterns, project managment, and developing interested projects.
 - 📫 How to reach me:
 - - Mail: fromzikrulloh@yandex.com
 - - Telegram: https://t.me/zikrulloh0115
