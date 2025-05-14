@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zikrulloh, backend developer from Uzbekiston!
-- 🐱‍👤 My skills: NodeJs Mongo GoLang
+- 🐱‍👤 My skills: NodeJs GoLang
 - 📫 How to reach me:
 - - Mail: fromzikrulloh@yandex.com
 - - Telegram: https://t.me/zikrulloh0115
